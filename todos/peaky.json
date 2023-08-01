@@ -1,0 +1,14 @@
+[
+    {
+        "name":"thomas shelby",
+        "role":"boss"
+    },
+    {
+        "name":"arthur shelby",
+        "role":"elder brother of thomas"
+    },
+    {
+        "name":"john shelby",
+        "role":"younger brother of thomas"
+    }
+]
